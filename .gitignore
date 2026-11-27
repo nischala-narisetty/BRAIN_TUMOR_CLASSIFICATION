@@ -1,0 +1,40 @@
+# ── Virtual environment ──────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Datasets (do NOT push large binary data) ────────────────────────────
+dataset/
+data_small/
+*.zip
+*.tar.gz
+
+# ── Trained model (can be large) ────────────────────────────────────────
+artifacts/best_model.keras
+artifacts/best_model.h5
+
+# ── Python cache ─────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Jupyter ───────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDE / OS ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# ── Secrets ───────────────────────────────────────────────────────────────
+*.env
+.env
+secrets.json
+
+# ── Temp / logs ───────────────────────────────────────────────────────────
+*.log
+tmp/
+temp/
