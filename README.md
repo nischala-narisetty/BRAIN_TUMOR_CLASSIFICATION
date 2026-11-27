@@ -73,7 +73,7 @@ We **freeze the backbone** and train only the custom classification head:
 
 This project uses the **Brain Tumour Classification MRI** dataset from Kaggle:
 
-🔗 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+🔗(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
 
 ### Expected folder structure after download
 
