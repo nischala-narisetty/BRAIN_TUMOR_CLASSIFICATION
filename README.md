@@ -265,7 +265,7 @@ git push -u origin main
 
 - Sandler et al. (2018). *MobileNetV2: Inverted Residuals and Linear Bottlenecks.* CVPR.
 - Chollet, F. (2021). *Deep Learning with Python.* Manning.
-- Kaggle Dataset: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+- Kaggle Dataset: [https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
 - TensorFlow Documentation: https://www.tensorflow.org/api_docs
 
 ---
